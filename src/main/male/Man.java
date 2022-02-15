@@ -1,4 +1,4 @@
-package main.man;
+package main.male;
 
 import main.Human;
 

@@ -1,6 +1,6 @@
 package main;
 
-import main.man.MaleFactory;
+import main.male.MaleFactory;
 
 public class Solution {
     public static void main(String[] args) {
